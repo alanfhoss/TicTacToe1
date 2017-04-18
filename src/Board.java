@@ -7,6 +7,7 @@ public class Board
 	{
 		numMoves = 0;
 		board = new char[3][3];
+		// Just a new comment here
 		
 		for(int row = 0; row < 3; row++)
 		{
